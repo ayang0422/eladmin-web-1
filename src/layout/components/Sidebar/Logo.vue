@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import Logo from '@/assets/images/logo.png'
+import Logo from '@/assets/images/chxy.png'
 export default {
   name: 'SidebarLogo',
   props: {
@@ -25,7 +25,7 @@ export default {
   },
   data() {
     return {
-      title: 'ELADMIN-后台管理',
+      title: '横向项目管理中心',
       logo: Logo
     }
   }
